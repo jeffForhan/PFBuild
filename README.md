@@ -3,9 +3,13 @@ A platformer game I built in Unity
 
 Controls for platformer game:
 
+move using the arrow keys or AWSD
+
 turn by moving the mouse
 
-move using the arrow keys or AWSD
+Change camera elevation by moving mouse up or down
+
+Once falling at a great enough velocity, the camera can move higher and adjusts faster
 
 jump with space bar
 
